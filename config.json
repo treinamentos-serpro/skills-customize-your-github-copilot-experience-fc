@@ -72,6 +72,30 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-applications",
+      "title": "Testing FastAPI Applications",
+      "description": "Learn to test FastAPI endpoints with pytest and TestClient, including success responses, validation, and error handling.",
+      "path": "assignments/testing-fastapi-applications",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "FastAPI Application",
+          "file": "app.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Starter Code",
+          "file": "test_app.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
